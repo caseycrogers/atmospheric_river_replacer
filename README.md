@@ -9,5 +9,5 @@ just dumb.
 The phrase has exploded in popularity because desperate news outlets have discovered it makes a clickbait-y headline 
 that SEOs well. Fixing this affront to our dignity I promise will improve your news viewing experience.
 
-This is a real world example of the Onion "post office box" phenomena:
+This is a real world example of the Onion "post office box" phenomena:\n
 [https://www.youtube.com/watch?v=uFpK_r-jEXg](https://www.youtube.com/watch?v=uFpK_r-jEXg)
