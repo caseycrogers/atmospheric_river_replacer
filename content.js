@@ -8,7 +8,7 @@ for (var i = 0; i < elements.length; i++) {
 
         if (node.nodeType === 3) {
             var text = node.nodeValue;
-            var replacedText = text.replace(/((?:n )?atmospheric river)/gi, function(m) {
+            var replacedText = text.replace(/((?:an )?atmospheric river)/gi, function(m) {
                 var words = m.split(' ');
                 var ret = '';
                 var i = 0;
