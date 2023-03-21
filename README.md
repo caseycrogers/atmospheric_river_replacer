@@ -5,6 +5,7 @@ Because `atmospheric river` sounds stupid and is stupid.
 
 Sure it might make sense as scientific jargon in some meteorological research paper, but in a colloquial context its 
 just dumb.
+
 The phrase has exploded in popularity because desperate news outlets have discovered it makes a clickbait-y headline 
 that SEOs well. Fixing this affront to our dignity I promise will improve your news viewing experience.
 
